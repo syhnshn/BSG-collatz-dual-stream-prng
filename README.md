@@ -81,6 +81,6 @@ Step   | Stream A             | Stream B             | Coupling (A^B)  | Bit
 
 <div align="center">
 
-**[Seyhan](https://github.com/syhnshn) tarafından ❤️ ile geliştirilmiştir.**
+**[Seyhan](https://github.com/syhnshn) tarafından geliştirilmiştir.**
 
 </div>
